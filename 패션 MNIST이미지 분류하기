@@ -1,0 +1,8 @@
+Fashion MNIST 데이터셋은 운동화, 셔츠 등 패션들의 작은 이미지들의 모음이다.
+다른 MNIST 데이터셋과 같이 28 * 28 픽셀의 크기이며 70,000개로 이루어져 있다.
+Fully-Connected Neural Network를 이용하여 Fashion MNIST 데이터셋을 분류한다.
+
+순서는 다음과 같다
+  Fashion MNIST 데이터셋 불러오기
+  Fashion MNIST 데이터셋 살펴보기
+  Fashion MNIST 데이터셋 전처리하기
